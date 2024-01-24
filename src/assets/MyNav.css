@@ -1,0 +1,19 @@
+.MyNav {
+    padding-bottom: 5px;
+    background-color: rgb(47, 143, 233);
+    margin-bottom: 10px;
+}
+
+.Title {
+    font-size:larger;
+    padding-left: 2rem;
+    font-weight: 600;
+    font-family: sans-serif;
+    
+}
+
+.Title1 {
+    font-size:larger;
+    font-family: sans-serif;
+    font-weight: 600;
+}
